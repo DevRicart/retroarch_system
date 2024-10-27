@@ -1,3 +1,4 @@
+##### Repositório original de: [Abdess](https://github.com/Abdess)
 # Retro BIOSes
 
 BIOSes in agreement with: [System.dat](https://github.com/libretro/libretro-database/blob/master/dat/System.dat)
